@@ -1,6 +1,8 @@
-# Project Notebooks README
+# Machine Learning Project
 
-This repository contains several Jupyter notebooks for graph-based machine learning tasks, including feature engineering, model training, hyperparameter tuning, and evaluation. Below is a description of each notebook and instructions for running them.
+>NOTE: MDS mandatory subject
+
+The project is realted to the prediction of root node in a free tree. This repository contains several Jupyter notebooks for graph-based machine learning tasks, including feature engineering, model training, hyperparameter tuning, and evaluation. Below is a description of each notebook and instructions for running them.
 
 ---
 
